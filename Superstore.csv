@@ -1,0 +1,6 @@
+Order Date,Sales,Profit,Category,Sub-Category,Segment,Region
+2022-01-01,200,50,Furniture,Chairs,Consumer,East
+2022-01-05,450,120,Technology,Phones,Corporate,West
+2022-01-10,300,80,Office Supplies,Binders,Home Office,Central
+2022-02-01,700,200,Furniture,Tables,Consumer,East
+2022-02-10,150,30,Technology,Laptops,Corporate,South
